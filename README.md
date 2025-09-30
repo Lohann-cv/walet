@@ -1,2 +1,2 @@
 # walet
-Une walet python avec divers intégration.
+Une walet python avec sauvgarde sql
